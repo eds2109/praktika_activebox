@@ -1,0 +1,30 @@
+{
+  "name": "project-on-bootstrap",
+  "version": "1.0.0",
+  "description": "Project template using gulp",
+  "author": "xxx",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "latest",
+    "popper.js": "latest",
+    "bootstrap": "latest"
+  },
+  "devDependencies": {
+    "browser-sync": "latest",
+    "del": "latest",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-cache": "latest",
+    "gulp-clean-css": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-plumber": "latest",
+    "gulp-rename": "latest",
+    "gulp-rigger": "latest",
+    "gulp-sass": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "latest",
+    "imagemin-jpeg-recompress": "latest",
+    "imagemin-pngquant": "latest",
+    "panini": "latest"
+  }
+}

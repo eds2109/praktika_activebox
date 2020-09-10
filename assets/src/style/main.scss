@@ -1,0 +1,30 @@
+// Переопределение дефолтных значений переменных Bootstrap 4 и определение своих
+@import "vars";
+
+// Подключение нужных SCSS исходников Bootstrap 4
+/*@import "bootstrap-style";*/
+
+// Подключение своих SCSS файлов
+@import "my";
+
+// Подключение файлов блоков
+ @import "blocks/header";
+ @import "blocks/nav";
+ @import "blocks/intro";
+ @import "blocks/btn";
+ @import "blocks/features";
+ @import "blocks/works";
+ @import "blocks/team";
+ @import "blocks/social";
+ @import "blocks/reviews";
+ @import "blocks/download";
+ @import "blocks/burger";
+ @import "blocks/footer";
+
+
+// Подключение вендорных стилей
+
+/* Подключение медиа запросов
+=============================*/
+@import "media";
+

@@ -1,0 +1,46 @@
+.team {
+    margin: 100px 0 70px;
+}
+
+.team__inner {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -15px;
+}
+
+.team__item {
+    width: 25%;
+    padding: 0 15px;
+    margin-bottom: 30px;
+}
+
+.team__photo {
+    display: block;
+    max-width: 100%;
+    height: auto;
+
+    margin-bottom: 20px;
+}
+
+.team__name {
+    margin-bottom: 8px;
+
+    color: #2D3033;
+    font-size: 22px;
+}
+
+.team__prof {
+    margin-bottom: 15px;
+
+    color: #E84545;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+.team__text {
+    margin-bottom: 15px;
+
+    color: #6C7279;
+    font-size: 14;
+    line-height: 1.5;
+}

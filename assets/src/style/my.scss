@@ -1,0 +1,41 @@
+html {
+    font-size: 15px;
+}
+
+body {
+    margin: 0;
+    min-width: 320px;
+
+    font-family: 'Raleway', sans-serif;
+    font-size: 1rem;
+    color: #6C7279;
+    -wekit-font-smoothing: antialiased;
+
+    background-color: #fff;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+p {
+    margin: 0 0 10px;
+}
+
+/* Container
+===============*/
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+

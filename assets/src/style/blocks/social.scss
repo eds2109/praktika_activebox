@@ -1,0 +1,36 @@
+.social {
+    display: flex;
+}
+
+.social__item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    margin-right: 4px;
+
+    background-color: #fff;
+    border: 1px solid #e8ecee;
+
+    transition: background .1s linear;
+}
+
+.social__item:hover {
+    background-color: #e8ecee;
+}
+
+.social__item:hover .social__icon {
+    fill: #E84545;
+}
+
+.social__icon {
+    display: block;
+    width: 18px;
+
+    fill: #C6CACC;
+
+    transition: fill .1s linear;
+}
+
+
