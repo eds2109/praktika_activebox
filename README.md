@@ -1,2 +1,1 @@
-# praktika_activebox
-The practice of layout site ActiveBox.
+### The practice, layout of the site template ActiveBox.
